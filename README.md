@@ -33,3 +33,6 @@ OBJSpinner is a tiny Python/Pygame wireframe viewer that spins OBJ meshes in rea
 - `point.py` — small 2D/3D point structs.
 - `settings.py` — window and color constants.
 - `assets/` — sample OBJ for quick testing.
+
+## <3
+Inspired by the following video from Tsoding : https://www.youtube.com/watch?v=qjWkNZ0SXfo&t
